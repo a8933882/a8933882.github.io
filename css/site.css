@@ -1,1 +1,4 @@
 
+    .box { max-width: 770px; margin: 0 auto; }
+    .myrow { margin: 0; }
+    .myrow > .col-xs-4 { padding: 0; }
